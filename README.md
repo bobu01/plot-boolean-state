@@ -7,3 +7,11 @@ Matplotlib pcolormesh library is used to plot a numpy array of boolean values. p
 
 ![Figure 1](https://github.com/user-attachments/assets/8c9db483-4aa7-46b3-9bb4-fb1b872a917d)
 ![Figure 2](https://github.com/user-attachments/assets/f629c6a6-e093-4808-9714-c459506e44f8)
+
+Next steps (not done):
+- Text names for channels (yticks)
+- xtick labels get crowded when there are many points in the series. Setup major/minor xticks. Label the major xticks. Optionally mark the minor xticks
+- grid lines also get crowded when there are many points in the series.
+- Specify color per channel. Change plot array to int type and use the value to select a color.
+- Rewrite as a function/method.
+- Use parameters/instances to modify preferences
