@@ -1,5 +1,5 @@
 # plot-boolean-state
-This is an example notebook to plot boolean state values using matplotlib.axes.Axes.pcolormesh
+pcmesh3.ipynb This is an example notebook to plot boolean state values using matplotlib.axes.Axes.pcolormesh
 
 Use JupyterLab notebook or stand-alone Python to plot a time-series of boolean values. This is similar to signals displayed on an oscilloscope or logic analyzer. This is useful to visualize boolean state variables and events.  This example plots 16 channels of fake data.  
 
