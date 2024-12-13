@@ -17,5 +17,5 @@ Next steps (not done):
 - Use parameters/instances to modify preferences
 
 ### Alternate plotting method
-New and improved method: Use multiple subplots and then filled lines. This is easier to understand and it supports multiple colors. It's easier to manage thousands of time values.
+New and improved method: Use multiple subplots and then filled lines. This is easier to understand and it supports multiple colors. It's easier to manage thousands of time values. Multiple subplots works well for 10 or less variables.
 ![state_plot](https://github.com/user-attachments/assets/2e5fda84-da06-40e5-a942-482530ad68f9)
